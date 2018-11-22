@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+from google.cloud import storage
 
 class gcp_storage:
     ## can make this path as a global veriable
